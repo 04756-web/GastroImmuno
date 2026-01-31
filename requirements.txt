@@ -8,3 +8,5 @@ fpdf
 matplotlib
 seaborn
 scikit-learn
+stmol
+py3Dmol
