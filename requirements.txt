@@ -10,3 +10,4 @@ seaborn
 scikit-learn
 stmol
 py3Dmol
+ipython_genutils
